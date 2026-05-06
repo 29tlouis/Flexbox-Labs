@@ -58,3 +58,13 @@ main {
 .color5 {
     background-color: lightblue;
 }
+
+header,
+footer,
+.center nav,
+main,
+.center aside {
+    color: black;
+    padding: 1rem;
+    box-sizing: border-box;    
+}
