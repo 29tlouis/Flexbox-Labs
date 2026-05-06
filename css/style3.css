@@ -38,3 +38,23 @@ main {
     align-items: center;
     justify-content: center;
 }
+
+.color1 {
+    background-color: lightblue;
+}
+
+.color2 {
+    background-color: darkorchid;
+}
+
+.color3 {
+    background-color: lightsalmon;
+}
+
+.color4 {
+    background-color: darkorchid;
+}
+
+.color5 {
+    background-color: lightblue;
+}
